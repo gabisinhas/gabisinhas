@@ -22,12 +22,10 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da117f82fbd930e395a9da7a0f38d5dab12100fb99b92ecb389612756cb9ea56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/da117f82fbd930e395a9da7a0f38d5dab12100fb99b92ecb389612756cb9ea56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-## Studying New Technologies!! <img src='/assets/woman-fixing-glowing-light-bulb-with-gear-wheels-inside-concept-of-innovation-innovative-idea-creativity-creative-thinking-creation-of-modern-technology-hi-tech-flat-illustration-vector.jpg' style="width: 15%"/>
+<img src='/assets/woman-fixing-glowing-light-bulb-with-gear-wheels-inside-concept-of-innovation-innovative-idea-creativity-creative-thinking-creation-of-modern-technology-hi-tech-flat-illustration-vector.jpg' style="width: 5%"/>## Studying New Technologies!! 
 <br /> 
 
 <p>In her free time, Gabi is dedicated to study new technologies as ReactJs and NextJs, Docker, MongoDb, Postgresql.</p>
 
-<img src='/assets/reactnext.jpeg'/> 
-
-
-
+<img src='/assets/reactnext.jpeg'/> <img src='/assets/docker.png'/>
+<img src='/assets/mongo.jpeg'/> <img src='/assets/postgresql.png'/> 
