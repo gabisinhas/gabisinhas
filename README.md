@@ -4,9 +4,9 @@
 
 <p>Gabriela dos Santos currently is based in Hortolandia-SP/Brazil and is a Software Engineer with over 4 years of development experience in JavaScript, Vue.js, React, Node.js (BackEnd), Python (BackEnd), and more than 10 years working in IT Industry.</p>
 
-<p>She is passionate with animals and has a dog named Goku.</p>
+<p>She is passionate about animals and has a dog named Goku.</p>
 <div style="text-align: center;">
-    <img src="/assets/goku.jpg" style="width: 15%"/>
+    <img src="/assets/goku.jpg" style="width: 15% ; display: block; margin: auto;"/>
 </div>
 
 ## <img src="/assets/lisa.jpg" style="width: 10%"/> Hobbies!! 
