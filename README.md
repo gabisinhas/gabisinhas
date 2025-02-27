@@ -28,5 +28,5 @@
 
 <p>In her free time, Gabi is dedicated to study new technologies as ReactJs and NextJs, Docker, MongoDb, Postgresql.</p>
 
-<img src='/assets/reactnext.jpeg'/> <img src='/assets/docker.png' style="width: 5%"/>
-<img src='/assets/mongo.jpeg' style="width: 5%"/> <img src='/assets/postgresql.png' style="width: 5%"/> 
+<img src='/assets/reactnext.jpeg' style="width: 10%"/> <img src='/assets/docker.png' style="width: 10%"/>
+<img src='/assets/mongo.jpeg' style="width: 10%"/> <img src='/assets/postgresql.png' style="width: 10%"/> 
