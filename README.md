@@ -1,10 +1,10 @@
 
 
-## Welcome to my GitHub Repository!! 👋
+## Welcome to my GitHub Repository!! <img src="/assets//working.jpeg" style="width: 10%"/>
 
 <p>Gabriela dos Santos is a Software Engineer with over 4 years of development experience in JavaScript, Vue.js, React, Node.js (BackEnd), Python (BackEnd), and more than 10 years working in IT Industry.</p>
 
-
+## Hobbies!! <img src="/assets/lisa.jpg" style="width: 10%"/>
 <p>In her free time, Gabi loves listening to electronic music, watching movies or TV series, and exploring new places. She travels a lot, meet new people, and learn new languages. </p>
 
 ## 💻 Technologies & Tools 👩‍💻!! 
