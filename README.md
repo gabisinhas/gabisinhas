@@ -25,6 +25,8 @@
 ## Studying New Technologies!! <img src='/assets/woman-fixing-glowing-light-bulb-with-gear-wheels-inside-concept-of-innovation-innovative-idea-creativity-creative-thinking-creation-of-modern-technology-hi-tech-flat-illustration-vector.jpg' style="width: 15%"/>
 <br /> 
 
+<p>In her free time, Gabi is dedicated to study new technologies as ReactJs and NextJs, Docker, MongoDb, Postgresql.</p>
+
 <img src='/assets/reactnext.jpeg'/> 
 
 
